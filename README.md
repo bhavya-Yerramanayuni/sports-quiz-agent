@@ -176,6 +176,5 @@ streamlit run app.py
 
 ---
 
-## Author
-
-Bhavya Yerramanayuni
+- GitHub: https://github.com/bhavya-Yerramanayuni
+- Repository: https://github.com/bhavya-Yerramanayuni/sports-quiz-agent
