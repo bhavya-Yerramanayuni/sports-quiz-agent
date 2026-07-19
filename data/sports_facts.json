@@ -1,0 +1,42 @@
+[
+  {
+    "sport": "Cricket",
+    "fact": "The first official Test match was played between Australia and England in 1877."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "Sachin Tendulkar scored 100 international centuries."
+  },
+  {
+    "sport": "Cricket",
+    "fact": "India won the ICC Cricket World Cup in 1983 under Kapil Dev."
+  },
+  {
+    "sport": "Football",
+    "fact": "The FIFA World Cup was first held in 1930."
+  },
+  {
+    "sport": "Football",
+    "fact": "Brazil has won the FIFA World Cup five times."
+  },
+  {
+    "sport": "Football",
+    "fact": "Lionel Messi won the FIFA World Cup in 2022 with Argentina."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "India won its first Thomas Cup in 2022."
+  },
+  {
+    "sport": "Badminton",
+    "fact": "PV Sindhu won a silver medal at the 2016 Olympics."
+  },
+  {
+    "sport": "Tennis",
+    "fact": "Wimbledon is the oldest tennis tournament in the world."
+  },
+  {
+    "sport": "Basketball",
+    "fact": "The NBA was founded in 1946."
+  }
+]
