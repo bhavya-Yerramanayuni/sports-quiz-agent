@@ -176,5 +176,11 @@ streamlit run app.py
 
 ---
 
-- GitHub: https://github.com/bhavya-Yerramanayuni
-- Repository: https://github.com/bhavya-Yerramanayuni/sports-quiz-agent
+## Demo Video
+
+Screen Recording:
+https://drive.google.com/file/d/1NmigRK-Jxd5Fzn2-WRGCZcujNCf5LTse/view?usp=sharing
+
+## GitHub Repository
+
+https://github.com/bhavya-Yerramanayuni/sports-quiz-agent
